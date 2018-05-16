@@ -1,0 +1,8 @@
+{
+  "name": "Georockets_v2",
+  "app_id": "b4a23142",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
